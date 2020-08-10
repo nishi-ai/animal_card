@@ -1,0 +1,57 @@
+body {}
+
+h3 {
+    border: 0.5px solid gray;
+    width: 300px;
+    
+}
+
+.container {
+    width: 350px;
+    border: 0.5px solid gray;
+    padding: 20px;
+    box-shadow: 7px 9px 5px 0px #9e9e9e;
+    
+}
+
+img {
+    width: 300px;
+    height: 200px;
+    margin-bottom: 10px;
+    border: 0.5px solid gray;
+
+
+
+}
+
+.container2 {
+    width: 300px;
+    border: 0.5px solid gray;
+   
+
+
+}
+
+.fact {
+    font-style: italic;
+
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+
+
+}
+
+ul li {
+    text-align: left
+}
+
+li span {
+    font-weight: bold;
+}
+
+.checked {
+    color: orange;
+}
